@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,28 +151,44 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished starting the store info activity.">
+      <created>1600980852833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600980852833</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished starting the store info activity." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished starting the store info activity." />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1313" height="173" key="GridCell.Tab.0.bottom" timestamp="1600980687961">
+    <state x="174" y="0" key="CommitChangelistDialog2" timestamp="1600980848946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600980687961" />
-    <state width="1313" height="173" key="GridCell.Tab.0.center" timestamp="1600980687961">
+    <state x="174" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600980848946" />
+    <state width="1313" height="173" key="GridCell.Tab.0.bottom" timestamp="1600981210532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600980687961" />
-    <state width="1313" height="173" key="GridCell.Tab.0.left" timestamp="1600980687961">
+    <state width="1313" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600981210532" />
+    <state width="1313" height="173" key="GridCell.Tab.0.center" timestamp="1600981210532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600980687961" />
-    <state width="1313" height="173" key="GridCell.Tab.0.right" timestamp="1600980687961">
+    <state width="1313" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600981210532" />
+    <state width="1313" height="173" key="GridCell.Tab.0.left" timestamp="1600981210532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600980687961" />
-    <state x="275" y="94" key="Vcs.Push.Dialog.v2" timestamp="1600980702451">
+    <state width="1313" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600981210532" />
+    <state width="1313" height="173" key="GridCell.Tab.0.right" timestamp="1600981210532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600980702451" />
+    <state width="1313" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600981210532" />
+    <state x="275" y="94" key="Vcs.Push.Dialog.v2" timestamp="1600980858299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="94" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600980858299" />
   </component>
 </project>
